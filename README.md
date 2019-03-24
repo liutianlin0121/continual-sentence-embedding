@@ -1,1 +1,1 @@
-Codes for the paper Continual Learning for Sentence Representations Using Conceptors, NAACL 2019.
+Codes for the paper [Continual Learning for Sentence Representations Using Conceptors, NAACL 2019](https://drive.google.com/file/d/10E3g8CpeVdOw3ybN5pRHP7NdV-yIZWhZ/view).
